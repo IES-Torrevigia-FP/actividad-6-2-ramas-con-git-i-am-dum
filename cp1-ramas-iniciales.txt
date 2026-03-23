@@ -1,0 +1,6 @@
+andr@andr:~/Documents/dev/actividad-6-2-ramas-con-git-i-am-dum$ git branch
+* main
+andr@andr:~/Documents/dev/actividad-6-2-ramas-con-git-i-am-dum$ git log --oneline
+e7a1166 (HEAD -> main) Versión inicial de la aplicación
+813ace8 (origin/main, origin/HEAD) add deadline
+a085ca8 Initial commit
